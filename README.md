@@ -38,5 +38,6 @@ Ten projekt jest licencjonowany na warunkach licencji MIT - zobacz plik [LICENSE
 
 
 ## Autor
-Utworzono przez [Bartolinski](https://github.com/Bartolinski4)
+Utworzono przez [Bartolinski](https://github.com/Bartolinski4). 
+
 Jesli masz jakies problemy zglos sie do mnie w wiadomosci prywatnej na discodzie: [.bartolinski](https://discord.com/users/717048566396354582)
